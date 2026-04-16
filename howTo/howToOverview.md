@@ -16,7 +16,7 @@ During practice the option for hands-on learning can be utilized with out testbe
 For further information how our coding environment is setup and what need to be done to connect to a robot, check out the @TODO Link
 
 ## Start with CAD (Computer Aided Design)
-For our CAD needs we are using [ONSHAPE](https://www.onshape.com/).
+For our CAD needs we are using [ONSHAPE](https://www.onshape.com/).  
 
 If you already have a login you can send an email to one of the coaches to be added to the onshape classroom. This way you can access all the past done designs of the team and jump right into creating a new robot.
 
