@@ -2,8 +2,8 @@
 This collection of pages shall showcase the work we do in the STEM, and especially the robotics space, here in Allegany County, MD with support from [REACT Inc.](#what-is-react-inc) and [4H](#what-is-4h)
 
 - [Introduction](./intro.md)
-- [The teams](./Teams/TeamOverview.md)
-- [How To??](./howTo/howToOverview.md)
+- [The Teams](./Teams/TeamOverview.md)
+- [How do I do ...](./howTo/howToOverview.md)
 
 # How to join a team
 We are always looking for new teammates.
